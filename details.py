@@ -1,0 +1,6 @@
+print("Deepak Alex")
+print("Kaleeckal Veedu")
+print("Kaitha North")
+print("Chettikulangra")
+print("690106")
+print("9526749338")
